@@ -1,0 +1,1 @@
+package nyc.c4q.hoshikoo;/** * Created by Hoshiko on 5/3/15. */public abstract class movement {    abstract void moveForward();    abstract void moveBack();}
